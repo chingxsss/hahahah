@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ta3QnjMk6E7LIHlL/b+B6WWAIQpCOUU9ljWmN/cQYf5tsk9s07Yz+mVoAMneR9WmU1y65p+81OE57BWgH9h/dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\OneDrive\\Documents\\Account\\AccountManagementModels\\AccountManagementModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
